@@ -1,0 +1,230 @@
+{
+    "Travel": [
+        {
+            "title": "Grand Melia Hotel - Save up to 30% for Room & Resto",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190709093059.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1257",
+            "promo_area": "Jakarta",
+            "promo_period": "01 Juli 2019 - 31 Mei 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/GranMeliaJKT-lp.jpg"
+        },
+        {
+            "title": "Prama Grand Preanger - Disc up to 60%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190326135811.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1389",
+            "promo_area": "Bandung",
+            "promo_period": "01 Februari 2019 - 31 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/PRAMA-lp(1).jpg"
+        },
+        {
+            "title": "Hotel Horison - Disc up to 50%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190328163138.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1391",
+            "promo_area": "Pasuruan",
+            "promo_period": "01 Februari 2019 - 30 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/02-landing-page-HORISON.jpg"
+        },
+        {
+            "title": "Baobab Safari Resort - Diskon hingga 20%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190401200544.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1399",
+            "promo_area": "Pasuruan",
+            "promo_period": "20 Maret 2019 - 19 Maret 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/00-landing-page-BAOBAB(1).jpg"
+        },
+        {
+            "title": "Waterbom PIK - Buy 1 Get 1 Free Ticket",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190404132108.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1402",
+            "promo_area": "Jakarta",
+            "promo_period": "31 Januari 2019 - 31 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/02-landing-page-WATERBOOM.jpg"
+        },
+        {
+            "title": "Shangri-La Hotel - Save up to 30%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190404140014.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1404",
+            "promo_area": "Jakarta",
+            "promo_period": "01 Maret 2019 - 20 Februari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/04-landing-page-SHANGRI.jpg"
+        }
+    ],
+    "Lifestyle": [
+        {
+            "title": "Clarte Jewerly Cicilan 0%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190516142039.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1489",
+            "promo_area": "Bandung , Cibubur",
+            "promo_period": "15 April 2019 - 15 April 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/indexLP.jpg"
+        },
+        {
+            "title": "Charisma Skin Care disc. up to 20%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190213151532.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1336",
+            "promo_area": "Semarang , Cirebon",
+            "promo_period": "14 Februari 2019 - 14 Februari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/01-landing-page-CHARISMA.jpg"
+        },
+        {
+            "title": "Watch Studio disc up to 20% +10%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190319163222.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1382",
+            "promo_area": "Nasional",
+            "promo_period": "19 Maret 2019 - 29 Februari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/00 landing page-01(1).jpg"
+        },
+        {
+            "title": "RS Mitra Medika - Diskon 15%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190719155634.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1590",
+            "promo_area": "Pontianak",
+            "promo_period": "01 Agustus 2019 - 31 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/00-landing-page-MITRA(1).jpg"
+        },
+        {
+            "title": "Frank & Co Triple Benefit",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190722175338.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1593",
+            "promo_area": "Nasional",
+            "promo_period": "02 Juli 2019 - 31 Maret 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/1-jewelery-triple-benefit-lp.jpg"
+        },
+        {
+            "title": "The Watch Co Additional 10% off",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190823162042.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1655",
+            "promo_area": "Nasional",
+            "promo_period": "19 Agustus 2019 - 30 Maret 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/00-landing-page-WATCH_kn(1).jpg"
+        }
+    ],
+    "Food & Beverages": [
+        {
+            "title": "Haka Restaurant 15% food only",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190705170026.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1444",
+            "promo_area": "Jakarta",
+            "promo_period": "27 Juni 2019 - 31 Mei 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/00-landing-page-HAKA.jpg"
+        },
+        {
+            "title": "Bottega, 3rd Avenue, Wilshire, Rock Paper Scissors",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20191024092122.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1592",
+            "promo_area": "Jakarta",
+            "promo_period": "10 Juli 2019 - 09 Juni 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/02-landing-page-BOTTEGA-GROUP(1).jpg"
+        },
+        {
+            "title": "Baskin Robbins Christmas Gift Set Diskon 50%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20191128101825.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1887",
+            "promo_area": "Nasional",
+            "promo_period": "01 November 2019 - 26 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/Baskin_lp01.jpg"
+        },
+        {
+            "title": "Shangri-la Food and Beverage",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20200109145823.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1991",
+            "promo_area": "Jakarta",
+            "promo_period": "07 Januari 2020 - 23 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/Shangri-La_lp.jpg"
+        },
+        {
+            "title": "Makan Bareng Mega Imlek",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20200116105845.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=2000",
+            "promo_area": "Jabodetabek",
+            "promo_period": "14 Januari 2020 - 26 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/BM asset imlek_lp01.jpg"
+        },
+        {
+            "title": "Tasty Kitchen disc. up to 20%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20181203103812.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1252",
+            "promo_area": "Jakarta",
+            "promo_period": "01 November 2018 - 31 Desember 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/02-landing-page-TASTY-revkn(1).jpg"
+        }
+    ],
+    "Gadget & Entertainment": [
+        {
+            "title": "Me Gallery - Cashback Up To Rp800.000.- + Speaker JBL",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20200116094859.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=2003",
+            "promo_area": "Makassar",
+            "promo_period": "17 Januari 2020 - 31 Maret 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/BM asset me gallery_lp(1).jpg"
+        }
+    ],
+    "Daily Needs": [
+        {
+            "title": "Fabelio.com - Diskon 15%",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20191106172356.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1849",
+            "promo_area": "Nasional",
+            "promo_period": "21 Oktober 2019 - 31 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/2-landing-page-FABELIO.jpg"
+        },
+        {
+            "title": "Ruparupa.com - Cicilan 0% Hingga 12 Bulan",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20191120145401.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1874",
+            "promo_area": "Nasional",
+            "promo_period": "28 Agustus 2019 - 31 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/0-landing-page-RUPARUPA(2).jpg"
+        },
+        {
+            "title": "Visa Contactless Shell",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20191218140151.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1940",
+            "promo_area": "Nasional",
+            "promo_period": "26 Oktober 2019 - 23 Februari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/VISA Shell_lp.jpg"
+        }
+    ],
+    "Others": [
+        {
+            "title": "Mega Reward Point",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20190124173059.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=174",
+            "promo_area": "Nasional",
+            "promo_period": "24 Januari 2019 - 30 Januari 2020",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/MEGAREWARD-LP-Update 04 MAR 19-revRainy.jpg"
+        },
+        {
+            "title": "Aktivasi Kartu Kredit dan PIN",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20191003104836.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=501",
+            "promo_area": "Nasional",
+            "promo_period": "30 Mei 2017 - ",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/AKTIVASI-CC-lp-CS5-revrainy.jpg"
+        },
+        {
+            "title": "Biaya SMS Notifikasi Transaksi Kartu Kredit",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20191009110051.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1770",
+            "promo_area": "Nasional",
+            "promo_period": "20 November 2019 - 31 Desember 2024",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/SMSnotif-lp.jpg"
+        },
+        {
+            "title": "Perubahan Minimum Payment",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20170223131927.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=393",
+            "promo_area": "Nasional",
+            "promo_period": "01 Maret 2017 - 31 Desember 2027",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/minimum payment-lp- rev.jpg"
+        },
+        {
+            "title": "Fraud Awareness",
+            "small_image_link": "https://www.bankmega.com/images/promolain/frontb/20180709151827.jpg",
+            "detail_link": "https://www.bankmega.com/promo_detail.php?id=1023",
+            "promo_area": "Nasional",
+            "promo_period": "09 Juli 2018 - 09 Juli 2028",
+            "full_poster_image_link": "https://www.bankmega.com/files/images/FraudAwareness-LP.jpg"
+        }
+    ]
+}
