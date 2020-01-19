@@ -30,8 +30,13 @@ function searchPromoDetail(linkToDetailPage) {
 function selectPromoLainnya(subcat, page, allPromos) {
     return nf(`${url}` + '?product=0&subcat=' + subcat.toString() + '&page=' + page.toString()).then(response => response.text()).then(body => {
         var category = "";
-        var promos = [];
+        const promos = [];
         const $ = cheerio.load(body);
+        $('#subcatselected').each(function(i, element) {
+            var $element = $(element);
+            $selected = $element.find('img');
+            category = $selected.attr('title');
+        });
         var $tag = $('#promolain.clearfix li a')
         if ($tag.length > 0) {
             $tag.each(function(i, element) {
@@ -40,22 +45,16 @@ function selectPromoLainnya(subcat, page, allPromos) {
                 var $title = $image.attr('title');
                 var $imageSource = BASEURL + "/" + $image.attr('src');
                 var $linkToDetailPage = BASEURL + "/" + $element.attr('href');
+                const promo = {};
                 searchPromoDetail($linkToDetailPage).then(details => {
-                    var promo = {
-                        title: $title,
-                        small_image_link: $imageSource,
-                        detail_link: $linkToDetailPage,
-                        promo_area: details.area,
-                        promo_period: details.periode,
-                        full_poster_image_link: details.fullPoster
-                    };
-                    promos.push(promo);
+                    promo.title = $title;
+                    promo.small_image_link = $imageSource;
+                    promo.detail_link = $linkToDetailPage;
+                    promo.promo_area = details.area;
+                    promo.promo_period = details.periode;
+                    promo.full_poster_image_link = details.fullPoster;
                 });
-            });
-            $('#subcatselected').each(function(i, element) {
-                var $element = $(element);
-                $selected = $element.find('img');
-                category = $selected.attr('title');
+                promos.push(promo);
             });
             if (category in allPromos) {
                 index = 0;
@@ -69,13 +68,14 @@ function selectPromoLainnya(subcat, page, allPromos) {
             selectPromoLainnya(subcat, page + 1, allPromos)
         } else {
             if ($('.page_promo_lain').length > 0) {
+                console.log("found " + allPromos[category].length + " promo's in the " + category + " category.");
                 selectPromoLainnya(subcat + 1, 1, allPromos)
             } else {
                 fs.writeFile("solution.json", JSON.stringify(allPromos, null, 4), function(err) {
                     if (err) {
                         return console.log(err);
                     }
-                    console.log("The file was saved!");
+                    console.log("The file 'solution.json' is saved!");
                 });
             }
         }
